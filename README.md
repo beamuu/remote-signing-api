@@ -1,5 +1,5 @@
 
-# Clique Signer API
+# Remote Signing API
 
 Remote‑signing micro‑service for Ethereum **Clique** validator keys stored in **Google Cloud KMS**.  
 It allows you to:
